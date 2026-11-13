@@ -13,6 +13,5 @@ average = total / n
 
 print("====== 結果 ======")
 print("總分：", total)
-print("平均：", round(average, 1))
 # TODO 功能一：印出最高分、最低分、及格人數
 # TODO 功能二：列出低於平均的同學
